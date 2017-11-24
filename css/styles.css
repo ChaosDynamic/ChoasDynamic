@@ -100,6 +100,21 @@
             }
         }
         
+        .silex-id-1511425658379-1 {
+            width: 387px;
+            min-height: 99px;
+            top: 161px;
+            left: 48px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1511425658379-1 {
+                left: 71px;
+                top: 1387px;
+            }
+        }
+        
         .silex-id-1478366450713-3 {
             top: 100px;
             left: NaNpx;
@@ -121,20 +136,5 @@
             width: 349px;
             top: -14px;
             left: 435px;
-        }
-        
-        .silex-id-1511425658379-1 {
-            width: 388px;
-            min-height: 105px;
-            top: 1014px;
-            left: 911px;
-        }
-        
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1511425658379-1 {
-                left: 71px;
-                top: 1387px;
-            }
         }
     
